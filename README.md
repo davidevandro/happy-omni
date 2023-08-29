@@ -71,6 +71,6 @@ This project is under license [MIT](https://github.com/davidevandro/happy-omni/b
 
 <div align="center">
 
-Developed by David Martins - Octobre/2020
+Developed by David Martins - October/2020
 
 [<img src="https://img.shields.io/static/v1?label= &message=David Evandro Amorim Martins&color=blue&logo=linkedin&link=https://www.linkedin.com/in/david-evandro-martins/"/>](https://www.linkedin.com/in/david-evandro-martins/)
